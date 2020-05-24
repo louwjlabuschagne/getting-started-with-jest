@@ -1,0 +1,1 @@
+![Unit Tests](https://github.com/louwjlabuschagne/getting-started-with-jest/workflows/JavaScript%20workflow/badge.svg?branch=master)
