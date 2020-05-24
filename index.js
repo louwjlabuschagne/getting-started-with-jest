@@ -6,7 +6,7 @@ function getAboutUsLink(language) {
         case englishCode.toLowerCase():
             return '/about-us';
         case spanishCode.toLowerCase():
-            return '/acerca-de';
+            return '/acerca-d';
     }
     return '';
 }
